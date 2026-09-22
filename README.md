@@ -21,4 +21,4 @@ Place the architecture diagram image (`ignyte_architecture.png`) in `docs/assets
 
 ---
 
-*For the latest updates, see the `main` branch.*
+
