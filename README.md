@@ -11,12 +11,13 @@ The full documentation site is available in the **docs** directory of this repos
 - **[docs/architecture.md](docs/architecture.md)** – Detailed architecture diagram and component description.
 
 ## Architecture Diagram
-Place the architecture diagram image (`ignyte_architecture.png`) in `docs/assets/` and reference it here:
-
-
-
 <img width="1500" height="800" alt="ignyte_architecture" src="https://github.com/user-attachments/assets/05eac438-4491-4b44-883b-1bde88200505" />
 
-*Once the image is added to the assets folder, it will be displayed on the README and the MkDocs site.*
+## Video Walkthrough
+
+<a href="https://youtube.com/shorts/ICCwyG-SHvc" target="_blank">
+  <img src="https://youtube.com" alt="Continuum AI - Architecture Walkthrough" width="240" style="max-width: 100%;">
+</a>
+
 
 ---
