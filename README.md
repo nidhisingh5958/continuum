@@ -13,12 +13,10 @@ The full documentation site is available in the **docs** directory of this repos
 ## Architecture Diagram
 Place the architecture diagram image (`ignyte_architecture.png`) in `docs/assets/` and reference it here:
 
-```markdown
-![Continuum Architecture](docs/assets/ignyte_architecture.png)
-```
+
+
+<img width="1500" height="800" alt="ignyte_architecture" src="https://github.com/user-attachments/assets/05eac438-4491-4b44-883b-1bde88200505" />
 
 *Once the image is added to the assets folder, it will be displayed on the README and the MkDocs site.*
 
 ---
-
-
